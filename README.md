@@ -1,2 +1,3 @@
-# Rare-Disease-
-Explainable Multi-Source Biomedical Knowledge Graph Framework for Rare Disease Discovery
+# EMBKGF
+
+Phase 1 repository scaffold.
